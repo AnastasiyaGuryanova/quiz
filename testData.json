@@ -1,0 +1,88 @@
+{
+	"questions": [
+		{
+			"text": "Какой язык программирования используется для разработки фронтенда в этом приложении?",
+			"answers": [
+				{
+					"text": "Python",
+					"isCorrect": false
+				},
+				{
+					"text": "JavaScript",
+					"isCorrect": true
+				},
+				{
+					"text": "C#",
+					"isCorrect": false
+				},
+				{
+					"text": "Ruby",
+					"isCorrect": false
+				}
+			]
+		},
+		{
+			"text": "Какой пакет отвечает за маршрутизацию на сервере?",
+			"answers": [
+				{
+					"text": "express",
+					"isCorrect": true
+				},
+				{
+					"text": "mongoose",
+					"isCorrect": false
+				},
+				{
+					"text": "nodemon",
+					"isCorrect": false
+				},
+				{
+					"text": "react-router-dom",
+					"isCorrect": false
+				}
+			]
+		},
+		{
+			"text": "Где хранится история прохождения тестов в этом приложении?",
+			"answers": [
+				{
+					"text": "MongoDB",
+					"isCorrect": false
+				},
+				{
+					"text": "sessionStorage",
+					"isCorrect": false
+				},
+				{
+					"text": "localStorage",
+					"isCorrect": true
+				},
+				{
+					"text": "PostgreSQL",
+					"isCorrect": false
+				}
+			]
+		},
+		{
+			"text": "Какая библиотека используется для работы с базой данных MongoDB?",
+			"answers": [
+				{
+					"text": "Mongoose",
+					"isCorrect": true
+				},
+				{
+					"text": "Sequelize",
+					"isCorrect": false
+				},
+				{
+					"text": "TypeORM",
+					"isCorrect": false
+				},
+				{
+					"text": "Prisma",
+					"isCorrect": false
+				}
+			]
+		}
+	]
+}
